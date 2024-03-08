@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://reactnative.dev/">
-    React Native
+    Earth boilerplate
   </a>
 </h1>
 
 <p align="center">
   <strong>Learn once, write anywhere:</strong><br>
-  Build mobile apps with React.
+  You're missing here.
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="center">
-  <a href="https://reactnative.dev/docs/getting-started">Getting Started</a>
+  <a href="https://reactnative.dev/docs/getting-started">Tree Taxi-Getting Started</a>
   <span> · </span>
   <a href="https://reactnative.dev/docs/tutorial">Learn the Basics</a>
   <span> · </span>

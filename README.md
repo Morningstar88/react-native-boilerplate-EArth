@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="center">
-  <a href="https://reactnative.dev/docs/getting-started">Tree Taxi-Getting Started</a>
+  <a href="[https://reactnative.dev/docs/getting-started](https://www.youtube.com/watch?v=qyK8cweYB88)">Tree Taxi-Getting Started</a>
   <span> · </span>
   <a href="https://reactnative.dev/docs/tutorial">Learn the Basics</a>
   <span> · </span>
